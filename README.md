@@ -2,7 +2,7 @@
 don't really know if I'm going to finish this course or not.
 https://cs50.harvard.edu/x/2021/
 
-###Current Progress
+### Current Progress
 
 - [x] Week 0 Scratch
 - [x] Week 1 C
